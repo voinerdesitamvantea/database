@@ -1,0 +1,52 @@
+{
+  "bestseller": [
+    {
+      "id": 1,
+      "barang": "tanaman lidah cicak",
+      "toko": "tanaman nusantara",
+      "harga": "75.000",
+      "image": "https://i.imgur.com/dLMVAqu.png",
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
+    },
+    {
+      "id": 2,
+      "barang": "tanaman lidah buaya",
+      "toko": "tanaman nusantara",
+      "harga": "90.000",
+      "image": "https://i.imgur.com/6sPsUnx.png",
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
+    },
+    {
+      "id": 3,
+      "barang": "earpod guntur selatan",
+      "toko": "Elektronik Nusantara",
+      "harga": "57.800",
+      "image": "https://i.imgur.com/kPzhePw.png",
+      "sinopsis": "earpod yang nyaman di telinga"
+    },
+    {
+      "id": 4,
+      "barang": "Headset segitiga gunung putih",
+      "toko": "Elektronik Nusantara",
+      "harga": "68.000",
+      "image": "https://i.imgur.com/HZMdLET.png",
+      "sinopsis": "headset yang nyaman di telinga dan kepala."
+    },
+    {
+      "id": 5,
+      "barang": "tanaman lidah naga",
+      "toko": "tanaman nusantara",
+      "harga": "108.000",
+      "image": "https://i.imgur.com/qn9ehSu.png",
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
+    },
+    {
+      "id": 6,
+      "barang": "Headset guntur selatan",
+      "toko": "Elektronik Nusantara",
+      "harga": "75.000",
+      "image": "https://i.imgur.com/aez4IYW.png",
+      "sinopsis": "headset yang nyaman di telinga dan kepala."
+    } 
+  ]
+}
