@@ -6,7 +6,7 @@
       "toko": "Elektronik Nusantara",
       "harga": "68.000",
       "image": "https://i.imgur.com/HZMdLET.png",
-      "sinopsis": "Tidak bisa dipungkiri, GO-JEK menjadi begitu fenomenal dengan layanan Ojek Online yang penuh kreasi dan inovasi. Dalam buku ini, akan dibahas membuat layanan Ojek Online menggunakan PHP dan memanfaatkan GPS (GMAP) secara Realtime. Aplikasi Ojek Online yang akan kita buat memiliki dua fitur utama, yaitu Jek-Send dan Jek-Ride yang fungsi utamanya mengantarkan penumpang atau barang dengan layanan ojek. Tentu saja ada fitur Pencarian Lokasi, Pemilihan Driver Terdekat, Mengatasi Order Fiktif. Selain itu, dilengkapi juga dengan Halaman Admin yg Mengelola Data Seluruh Sistem, termasuk Monitoring dan Laporan."
+      "sinopsis": "headset yang nyaman di telinga dan kepala."
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "toko": "Elektronik Nusantara",
       "harga": "43.800",
       "image": "https://i.imgur.com/BKrmkn2.png",
-      "sinopsis": "Buku ini membahas bagaimana cara kerja para master PHP di perusahaan dalam membangun proyek website secara profesional. Dikupas secara step by step mulai tahap Planning, Designing, Coding, Testing, Promotion, sampai  Maintenance."
+      "sinopsis": "earpod yang nyaman di telinga."
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "toko": "Elektronik Nusantara",
       "harga": "65.000",
       "image": "https://i.imgur.com/9XCQG9G.png",
-      "sinopsis": "Vue.js dibangun dengan pendekatan Approachable yang fokus pada kesederhanaan dan kerapian struktur codingnya - cukup pengetahuan dasar HTML, CSS, dan Javascript - memudahkan pengguna mempelajarinya dengan cepat."
+      "sinopsis": "earphone yang nyaman di telinga."
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "toko": "Elektronik Nusantara",
       "harga": "50.000",
       "image": "https://i.imgur.com/q2uKy3G.pngg",
-      "sinopsis": "Dalam buku ini, OOP akan dibahas secara praktis menggunakan pemrograman PHP. Dimulai dari Konsep Dasar OOP, Penerapan OOP dalam PHP, Pengolahan Database dengan OOP, sampai dengan Studi Kasus tentang pembuatan Aplikasi Pembayaran Angsuran Bank utuh dengan gaya OOP yang dibahas secara langkah demi langkah."
+      "sinopsis": "earphone yang nyaman di telinga."
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "toko": "Elektronik Nusantara",
       "harga": "57.800",
       "image": "https://i.imgur.com/kPzhePw.png",
-      "sinopsis": "Jadi gua harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas 2 proyek Website sekaligus yang sangat spesial. Tidak hanya itu, Halaman Administratornya juga nggak kalah canggih lho, dengan tampilan keren khas jQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
+      "sinopsis": "earpod yang nyaman di telinga"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "toko": "Elektronik Nusantara",
       "harga": "75.000",
       "image": "https://i.imgur.com/aez4IYW.png",
-      "sinopsis": "Selain didukung dengan Trik-Trik terpilih khas Master PHP. Pada bagian akhir disertakan pula Proyek Hebat Membuat CMS dari Nol, dimulai dari Alur, Konsep, Perancangan dan Pembuatannya, dari Halaman Administrator sampai Halaman Pengunjung yang didesain secara Elegan, Cantik, dan Responsive."
+      "sinopsis": "headset yang nyaman di telinga dan kepala."
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "toko": "tanaman nusantara",
       "harga": "75.000",
       "image": "https://i.imgur.com/dLMVAqu.png",
-      "sinopsis": "Buku ini mencoba membantu Anda untuk mempelajari Laravel dengan cara yang mudah dan menyeluruh (30 BAB). Disajikan dalam bentuk LANGKAH DEMI LANGKAH. Setiap materi disertai STUDI KASUS. Bahkan, ada beberapa materi yang tidak ada dalam dokumentasi resmi LARAVEL."
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "toko": "tanaman nusantara",
       "harga": "108.000",
       "image": "https://i.imgur.com/qn9ehSu.png",
-      "sinopsis": "Buku ini dibagi menjadi dua bagian. Bagian pertama membahas berbagai hal dasar untuk menguasai Codeigniter 3 (Instalasi, Routing, Model, View, Controller, Template Parser, Library, Helper, Database, Form, Session, Validation, Pagination, dsb). Bagian kedua membahas penerapan Codeigniter."
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "toko": "tanaman nusantara",
       "harga": "68.800",
       "image": "https://i.imgur.com/6wZTvxA.png",
-      "sinopsis": "Yii Framework sebagai salah satu Framework PHP Terbaik tentu memiliki kemampuan dalam menangani fitur-fitur canggih website. Selain sedikit membahas Dasar-Dasar Yii Framework, buku ini juga membahas Teknik Yii Framework Tingkat Lanjut."
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "toko": "tanaman nusantara",
       "harga": "90.000",
       "image": "https://i.imgur.com/6sPsUnx.png",
-      "sinopsis": "Pengen tau caranya bikin Aplikasi Zaman Now? Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang dibuat oleh Facebook. Aplikasi yang dibuat ReacJS terlihat super cepat, stabil, responsif, interaktif dan cool."
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "toko": "tanaman nusantara",
       "harga": "82.000",
       "image": "https://i.imgur.com/DDYRsXe.png",
-      "sinopsis": "Buku ini akan membantu Anda untuk mempelajari Laravel 7 dengan cara mudah. Disajikan dalam bentuk Langkah Demi Langkah. Setiap materi disertai Studi Kasus. Bahkan, beberapa materi tidak ada dalam dokumentasi resmi Laravel."
+      "sinopsis": "tanaman yang bagus untuk dalam rumah."
     }
   ]
 }
