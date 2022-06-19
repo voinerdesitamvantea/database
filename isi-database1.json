@@ -2,7 +2,7 @@
   "bukulokomedia": [
     {
       "id": 1,
-      "barang": "Headset segitga gunung putih",
+      "barang": "Headset segitiga gunung putih",
       "toko": "Elektronik Nusantara",
       "harga": "68.000",
       "image": "https://i.imgur.com/HZMdLET.png",
@@ -10,18 +10,18 @@
     },
     {
       "id": 2,
-      "barang": "Jalan Pintas Menjadi Master PHP",
-      "toko": "Lukmanul Hakim",
+      "barang": "airpod segitiga gunung putih",
+      "toko": "Elektronik Nusantara",
       "harga": "43.800",
-      "image": "http://www.tokolokomedia.com/cover/cover5.jpg",
+      "image": "https://i.imgur.com/BKrmkn2.png",
       "sinopsis": "Buku ini membahas bagaimana cara kerja para master PHP di perusahaan dalam membangun proyek website secara profesional. Dikupas secara step by step mulai tahap Planning, Designing, Coding, Testing, Promotion, sampai  Maintenance."
     },
     {
       "id": 3,
-      "barang": "Panduan Praktis Menguasai Vue.js",
-      "toko": "Lutfi Gani",
+      "barang": "earphone segitga gunug putih",
+      "toko": "Elektronik Nusantara",
       "harga": "65.000",
-      "image": "http://www.tokolokomedia.com/cover/cover10.jpg",
+      "image": "https://i.imgur.com/9XCQG9G.png",
       "sinopsis": "Vue.js dibangun dengan pendekatan Approachable yang fokus pada kesederhanaan dan kerapian struktur codingnya - cukup pengetahuan dasar HTML, CSS, dan Javascript - memudahkan pengguna mempelajarinya dengan cepat."
     },
     {
