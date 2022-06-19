@@ -5,7 +5,7 @@
       "barang": "Headset segitga gunung putih",
       "toko": "Elektronik Nusantara",
       "harga": "68.000",
-      "image": "https://imgur.com/a/Gu5AzrK",
+      "image": "https://i.imgur.com/HZMdLET.png",
       "sinopsis": "Tidak bisa dipungkiri, GO-JEK menjadi begitu fenomenal dengan layanan Ojek Online yang penuh kreasi dan inovasi. Dalam buku ini, akan dibahas membuat layanan Ojek Online menggunakan PHP dan memanfaatkan GPS (GMAP) secara Realtime. Aplikasi Ojek Online yang akan kita buat memiliki dua fitur utama, yaitu Jek-Send dan Jek-Ride yang fungsi utamanya mengantarkan penumpang atau barang dengan layanan ojek. Tentu saja ada fitur Pencarian Lokasi, Pemilihan Driver Terdekat, Mengatasi Order Fiktif. Selain itu, dilengkapi juga dengan Halaman Admin yg Mengelola Data Seluruh Sistem, termasuk Monitoring dan Laporan."
     },
     {
