@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "barang": "earphone segitga gunug putih",
+      "barang": "earphone segitiga gunug putih",
       "toko": "Elektronik Nusantara",
       "harga": "65.000",
       "image": "https://i.imgur.com/9XCQG9G.png",
@@ -26,66 +26,66 @@
     },
     {
       "id": 4,
-      "barang": "Trik Mudah Menguasai OOP dengan PHP",
-      "toko": "Akhmad Dharma",
+      "barang": "earphone guntur selatan",
+      "toko": "Elektronik Nusantara",
       "harga": "50.000",
-      "image": "http://www.tokolokomedia.com/cover/cover4.jpg",
+      "image": "https://i.imgur.com/q2uKy3G.pngg",
       "sinopsis": "Dalam buku ini, OOP akan dibahas secara praktis menggunakan pemrograman PHP. Dimulai dari Konsep Dasar OOP, Penerapan OOP dalam PHP, Pengolahan Database dengan OOP, sampai dengan Studi Kasus tentang pembuatan Aplikasi Pembayaran Angsuran Bank utuh dengan gaya OOP yang dibahas secara langkah demi langkah."
     },
     {
       "id": 5,
-      "barang": "Website Super WOW dengan PHP & jQuery",
-      "toko": "Lukmanul Hakim",
+      "barang": "earpod guntur selatan",
+      "toko": "Elektronik Nusantara",
       "harga": "57.800",
-      "image": "http://www.tokolokomedia.com/cover/cover3.jpg",
+      "image": "https://i.imgur.com/kPzhePw.png",
       "sinopsis": "Jadi gua harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas 2 proyek Website sekaligus yang sangat spesial. Tidak hanya itu, Halaman Administratornya juga nggak kalah canggih lho, dengan tampilan keren khas jQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
     },
     {
       "id": 6,
-      "barang": "Rahasia Inti Master PHP dan MySQLi",
-      "toko": "Lukmanul Hakim",
+      "barang": "Headset guntur selatan",
+      "toko": "Elektronik Nusantara",
       "harga": "75.000",
-      "image": "http://www.tokolokomedia.com/cover/cover6.jpg",
+      "image": "https://i.imgur.com/aez4IYW.png",
       "sinopsis": "Selain didukung dengan Trik-Trik terpilih khas Master PHP. Pada bagian akhir disertakan pula Proyek Hebat Membuat CMS dari Nol, dimulai dari Alur, Konsep, Perancangan dan Pembuatannya, dari Halaman Administrator sampai Halaman Pengunjung yang didesain secara Elegan, Cantik, dan Responsive."
     },
     {
       "id": 7,
-      "barang": "Konsep & Implementasi Pemrograman Laravel 5",
-      "toko": "Awan Pribadi",
+      "barang": "tanaman lidah cicak",
+      "toko": "tanaman nusantara",
       "harga": "75.000",
-      "image": "http://www.tokolokomedia.com/cover/cover7.jpg",
+      "image": "https://i.imgur.com/dLMVAqu.png",
       "sinopsis": "Buku ini mencoba membantu Anda untuk mempelajari Laravel dengan cara yang mudah dan menyeluruh (30 BAB). Disajikan dalam bentuk LANGKAH DEMI LANGKAH. Setiap materi disertai STUDI KASUS. Bahkan, ada beberapa materi yang tidak ada dalam dokumentasi resmi LARAVEL."
     },
     {
       "id": 8,
-      "barang": "Menguasai Codeigniter: Aplikasi Perpustakaan",
-      "toko": "Awan Pribadi",
+      "barang": "tanaman lidah naga",
+      "toko": "tanaman nusantara",
       "harga": "108.000",
-      "image": "http://www.tokolokomedia.com/cover/cover8.jpg",
+      "image": "https://i.imgur.com/qn9ehSu.png",
       "sinopsis": "Buku ini dibagi menjadi dua bagian. Bagian pertama membahas berbagai hal dasar untuk menguasai Codeigniter 3 (Instalasi, Routing, Model, View, Controller, Template Parser, Library, Helper, Database, Form, Session, Validation, Pagination, dsb). Bagian kedua membahas penerapan Codeigniter."
     },
     {
       "id": 9,
-      "barang": "Membangun Website dengan Yii Framework",
-      "toko": "Sharive",
+      "barang": "tanaman lidah hydra",
+      "toko": "tanaman nusantara",
       "harga": "68.800",
-      "image": "http://www.tokolokomedia.com/cover/cover9.jpg",
+      "image": "https://i.imgur.com/6wZTvxA.png",
       "sinopsis": "Yii Framework sebagai salah satu Framework PHP Terbaik tentu memiliki kemampuan dalam menangani fitur-fitur canggih website. Selain sedikit membahas Dasar-Dasar Yii Framework, buku ini juga membahas Teknik Yii Framework Tingkat Lanjut."
     },
     {
       "id": 10,
-      "barang": "Jalan Pintas Menjadi Master ReactJS",
-      "toko": "Lukmanul Hakim",
+      "barang": "tanaman lidah buaya",
+      "toko": "tanaman nusantara",
       "harga": "90.000",
-      "image": "http://www.tokolokomedia.com/cover/cover1.jpg",
+      "image": "https://i.imgur.com/6sPsUnx.png",
       "sinopsis": "Pengen tau caranya bikin Aplikasi Zaman Now? Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang dibuat oleh Facebook. Aplikasi yang dibuat ReacJS terlihat super cepat, stabil, responsif, interaktif dan cool."
     },
     {
       "id": 11,
-      "barang": "Konsep & Implementasi Pemrograman Laravel 7",
-      "toko": "Lukmanul Hakim",
+      "barang": "tanaman gak ada lidah",
+      "toko": "tanaman nusantara",
       "harga": "82.000",
-      "image": "http://www.tokolokomedia.com/cover/cover11.jpg",
+      "image": "https://i.imgur.com/DDYRsXe.png",
       "sinopsis": "Buku ini akan membantu Anda untuk mempelajari Laravel 7 dengan cara mudah. Disajikan dalam bentuk Langkah Demi Langkah. Setiap materi disertai Studi Kasus. Bahkan, beberapa materi tidak ada dalam dokumentasi resmi Laravel."
     }
   ]
